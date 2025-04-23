@@ -2,7 +2,7 @@
 The project centers around the analysis of hotel booking data, specifically focusing on bookings, cancellations, and revenue from 2014 to 2017. The data provides insights into the overall performance of the hotel, customer demographics, booking trends, and financial outcomes. The project aims to visualize key metrics, such as customer origins, booking patterns, and distribution channels, in order to make informed decisions for improving the hotel’s operational efficiency and financial growth.
 
 # Key Highlights
-* *Total Bookings:* The total number of bookings recorded was 1,791, with a noticeable number of cancellations (671).
+* * Total Bookings: * The total number of bookings recorded was 1,791, with a noticeable number of cancellations (671).
 
 * Revenue Generation: The hotel earned a total revenue of 1 million, with significant contributions from direct bookings (88% of the total distribution).
 
